@@ -1,0 +1,3 @@
+[submodule "TransWeather"]
+	path = TransWeather
+	url = https://github.com/jeya-maria-jose/TransWeather
