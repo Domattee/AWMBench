@@ -1,3 +1,6 @@
 [submodule "TransWeather"]
 	path = TransWeather
 	url = https://github.com/jeya-maria-jose/TransWeather
+[submodule "MonoWAD"]
+	path = MonoWAD
+	url = https://github.com/VisualAIKHU/MonoWAD
