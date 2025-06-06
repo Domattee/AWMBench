@@ -4,3 +4,6 @@
 [submodule "MonoWAD"]
 	path = MonoWAD
 	url = https://github.com/VisualAIKHU/MonoWAD
+[submodule "WeatherDiffusion"]
+	path = WeatherDiffusion
+	url = https://github.com/IGITUGraz/WeatherDiffusion
