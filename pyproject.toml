@@ -3,7 +3,7 @@ requires = ["setuptools>=64.0.0"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-packages = ["TransWeather"]
+packages = ["AWMBench"]
 
 [project]
 name = "AWMBench"
