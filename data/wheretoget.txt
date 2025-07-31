@@ -1,2 +1,5 @@
 AllWeather - https://github.com/jeya-maria-jose/TransWeather
 Snow100k - https://drive.google.com/drive/folders/1kLPWAev5f6OutKFALhxthuO1XCF5U1Yu
+Outdoor-Rain - https://www.dropbox.com/sh/zpadllquvmaztib/AACmzqQmGrRMp7qqXjbb7Gfza?dl=0
+Raindrop - https://drive.google.com/open?id=1e7R76s6vwUJxILOcAsthgDLPSnOrQ49K
+Weatherstream and GT-RAIN - https://drive.google.com/drive/folders/1_-EPWeTjrpg7EICz93uVaOkS_PIHz5uW

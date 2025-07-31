@@ -1,9 +1,9 @@
-[submodule "TransWeather"]
-	path = TransWeather
-	url = https://github.com/jeya-maria-jose/TransWeather
-[submodule "MonoWAD"]
-	path = MonoWAD
-	url = https://github.com/VisualAIKHU/MonoWAD
 [submodule "WeatherDiffusion"]
 	path = WeatherDiffusion
 	url = https://github.com/Domattee/WeatherDiffusion
+[submodule "MWFormer"]
+	path = MWFormer
+	url = https://github.com/taco-group/MWFormer.git
+[submodule "Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal"]
+	path = Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal
+	url = https://github.com/fingerk28/Two-stage-Knowledge-For-Multiple-Adverse-Weather-Removal
